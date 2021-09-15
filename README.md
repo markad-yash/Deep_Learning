@@ -1,6 +1,44 @@
 # Deep_Learning
-Understanding Artificial Neural Network
 
+# > Artificial Neural Network
+
+
+## Neural Network
+
+## Input layer
+
+## Weights 
+
+## Bias
+
+## Hidden layer
+
+## Activation Function
+
+## Output layer
+
+
+
+# Popular API's
+
+ - Keras == Tensorflow
+
+ - Pytorch
+
+
+# Source of Learning
+
+- []()
+
+- []()
+
+- []()
+
+- []()
+
+- []()
+
+- []()
 
 
 
