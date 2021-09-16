@@ -42,4 +42,11 @@
 
 
 
+# CNN
+# LSTM
+# RNN
+# GAN
+
+
+
 work is in process
